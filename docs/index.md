@@ -2,7 +2,7 @@
 title: "Métodos computacionales para las ciencias sociales"
 subtitle: "Apuntes de clase"
 author: "Klaus Lehmann"
-date: "2024-05-15"
+date: "2024-05-16"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
